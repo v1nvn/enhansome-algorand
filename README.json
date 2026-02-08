@@ -51,7 +51,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-02-02T02:03:40Z",
+            "last_commit": "2026-02-08T01:57:12Z",
             "owner": "algorandfoundation",
             "repo": "algokit-core",
             "stars": 14
@@ -804,7 +804,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-02-07T01:00:22Z",
+            "last_commit": "2026-02-08T01:00:27Z",
             "owner": "algorand",
             "repo": "go-algorand",
             "stars": 1424
@@ -926,7 +926,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-04T23:31:07Z",
+            "last_commit": "2026-02-07T10:33:20Z",
             "owner": "algorand",
             "repo": "js-algorand-sdk",
             "stars": 297
@@ -1004,7 +1004,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-06T20:29:59Z",
+            "last_commit": "2026-02-08T01:41:11Z",
             "owner": "subtopia-algo",
             "repo": "subtopia-js",
             "stars": 10
@@ -1972,10 +1972,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:14:35.403Z",
+    "last_updated": "2026-02-08T04:32:46.923Z",
     "original_repository": "aorumbayev/awesome-algorand",
     "source_repository": "v1nvn/enhansome-algorand",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Algorand with stars"
   }
 }
