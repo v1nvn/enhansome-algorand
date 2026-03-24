@@ -89,10 +89,10 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 * [algokit-utils-py](https://github.com/algorandfoundation/algokit-utils-py) ⭐ 19 | 🐛 15 | 🌐 Python | 📅 2026-03-17 - Algorand AlgoKit Utils for Python.
 * [puya-ts](https://github.com/algorandfoundation/puya-ts) ⭐ 16 | 🐛 8 | 🌐 TypeScript | 📅 2026-03-23 - An official TypeScript to TEAL compiler frontend, leveraging the core puya compiler, allows you to write code to execute on the Algorand Virtual Machine (AVM) with TypeScript syntax.
 * [algokit-core](https://github.com/algorandfoundation/algokit-core) ⭐ 15 | 🐛 39 | 🌐 Rust | 📅 2026-03-22 - Multi-language core primitives (Rust + FFI bindings) powering higher-level AlgoKit tooling (crypto, encoding, protocol logic).
-* [algokit-avm-vscode-debugger](https://github.com/algorandfoundation/algokit-avm-vscode-debugger) ⭐ 13 | 🐛 11 | 🌐 TypeScript | 📅 2026-01-26 - VSCode extension for line‑by‑line debugging of Algorand Python, TypeScript, TealScript and raw TEAL smart contracts via AVM traces.
+* [algokit-avm-vscode-debugger](https://github.com/algorandfoundation/algokit-avm-vscode-debugger) ⭐ 13 | 🐛 11 | 🌐 TypeScript | 📅 2026-03-23 - VSCode extension for line‑by‑line debugging of Algorand Python, TypeScript, TealScript and raw TEAL smart contracts via AVM traces.
 * [algorand-python-testing](https://github.com/algorandfoundation/algorand-python-testing) ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2026-03-17 - A Python library for unit testing Algorand Python smart contracts without the need to interact with the Algorand Blockchain.
 * [algokit-client-generator-ts](https://github.com/algorandfoundation/algokit-client-generator-ts) ⭐ 5 | 🐛 9 | 🌐 TypeScript | 📅 2026-03-12 - Algorand AlgoKit Typed Client Generator for TypeScript.
-* [algorand-TypeScript-testing](https://github.com/algorandfoundation/algorand-TypeScript-testing) ⭐ 4 | 🐛 7 | 🌐 TypeScript | 📅 2026-03-20 - A TypeScript library for unit testing Algorand smart contracts without the need to interact with the Algorand Blockchain.
+* [algorand-TypeScript-testing](https://github.com/algorandfoundation/algorand-TypeScript-testing) ⭐ 4 | 🐛 5 | 🌐 TypeScript | 📅 2026-03-24 - A TypeScript library for unit testing Algorand smart contracts without the need to interact with the Algorand Blockchain.
 * [algokit-client-generator-py](https://github.com/algorandfoundation/algokit-client-generator-py) ⭐ 3 | 🐛 3 | 🌐 Python | 📅 2026-03-16 - Algorand AlgoKit Typed Client Generator for Python.
 * [algokit-lora](https://lora.algokit.io/mainnet) - Visual local network explorer & app builder for testing Algorand applications (deploy contracts, inspect state, craft transactions).
 * [AlgoKit Docs](https://dev.algorand.co/algokit/algokit-intro/) - Official Algorand AlgoKit documentation.
@@ -101,7 +101,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 > AlgoKit templates are a set of starter and production-ready baseline templates for developing and deploying Algorand applications. They are designed to be used as a starting point for developers to quickly bootstrap their projects and focus on the business logic of their applications. Refer to [Creating AlgoKit Templates](https://github.com/algorandfoundation/algokit-cli/blob/main/docs/tutorials/algokit-template.md) ⭐ 191 | 🐛 30 | 🌐 Python | 📅 2026-03-16 for a general guide on how to create your own AlgoKit templates.
 
-* [algokit-python-template](https://github.com/algorandfoundation/algokit-python-template) ⭐ 10 | 🐛 12 | 🌐 Jinja | 📅 2026-03-16 - Official AlgoKit's Algorand Python template provides a production-ready baseline for developing and deploying smart contracts in Python.
+* [algokit-python-template](https://github.com/algorandfoundation/algokit-python-template) ⭐ 10 | 🐛 11 | 🌐 Jinja | 📅 2026-03-23 - Official AlgoKit's Algorand Python template provides a production-ready baseline for developing and deploying smart contracts in Python.
 * [algokit-fullstack-template](https://github.com/algorandfoundation/algokit-fullstack-template) ⭐ 10 | 🐛 4 | 🌐 Jinja | 📅 2026-03-10 - Official AlgoKit fullstack template provides a production-ready baseline for developing and deploying fullstack applications with Algorand dependencies integrated. Also serves as a reference for template builders on how to combine standalone algokit templates under one full stack template project.
 * [algokit-TypeScript-template](https://github.com/algorandfoundation/algokit-TypeScript-template) ⭐ 4 | 🐛 8 | 🌐 Jinja | 📅 2026-03-07 - Official AlgoKit's Algorand TypeScript template provides a production-ready baseline for developing and deploying smart contracts in TypeScript.
 * [algokit-react-frontend-template](https://github.com/algorandfoundation/algokit-react-frontend-template) ⭐ 4 | 🐛 2 | 🌐 Jinja | 📅 2026-03-13 - Official AlgoKit React frontend template provides a production-ready baseline for developing and deploying React frontend applications with Algorand dependencies integrated. Also serves as a reference for template builders on implementing standalone algokit frontend templates.
@@ -209,7 +209,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Go
 
-* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,426 | 🐛 272 | 🌐 Go | 📅 2026-03-23 - Algorand's official implementation in Go.
+* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,426 | 🐛 272 | 🌐 Go | 📅 2026-03-24 - Algorand's official implementation in Go.
 * [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 189 | 🐛 11 | 🌐 Go | 📅 2026-03-19 - The Algorand Golang SDK.
 * [conduit](https://github.com/algorand/conduit) ⭐ 43 | 🐛 17 | 🌐 Go | 📅 2026-02-18 - Algorand's data pipeline framework.
 
@@ -228,7 +228,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 * [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) ⭐ 297 | 🐛 41 | 🌐 TypeScript | 📅 2026-03-20 - The Algorand JavaScript SDK & Examples.
 * [algo-builder](https://github.com/scale-it/algo-builder) ⭐ 128 | 🐛 15 | 🌐 TypeScript | 📅 2023-07-18 - Framework to automate development of Algorand Assets and Smart Contracts.
-* [perawallet-connect](https://github.com/perawallet/connect) ⭐ 71 | 🐛 15 | 🌐 TypeScript | 📅 2026-03-18 - JavaScript SDK for integrating Pera Wallet to web applications.
+* [perawallet-connect](https://github.com/perawallet/connect) ⭐ 71 | 🐛 14 | 🌐 TypeScript | 📅 2026-03-23 - JavaScript SDK for integrating Pera Wallet to web applications.
 * [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-06 - Dapps templates for Algo Builder.
 * [algonaut.js](https://github.com/thencc/algonautjs) ⭐ 10 | 🐛 28 | 🌐 TypeScript | 📅 2024-07-02 - An easier Algo sdk for front-end dapps (TypeScript).
 * [defly-connect](https://github.com/blockshake-io/defly-connect) ⭐ 10 | 🐛 3 | 🌐 TypeScript | 📅 2025-01-09 - JavaScript SDK for integrating Defly Wallet to web applications.
@@ -279,7 +279,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 * [beaker](https://github.com/algorandfoundation/beaker) ⭐ 96 | 🐛 20 | 🌐 Python | 📅 2024-10-22 - Pythonic smart contract framework (PyTEAL DSL wrappers, client + testing utilities). (Canonical repo)
 * [pyteal-utils](https://github.com/algorand/pyteal-utils) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2023-04-07 - PyTEAL utilities library.
 * [avm-semantics](https://github.com/runtimeverification/avm-semantics) ⭐ 15 | 🐛 11 | 🌐 Python | 📅 2025-10-01 - Algorand Virtual Machine and TEAL Semantics in K framework. Aids with testing and formal verification of smart contracts.
-* [d-asa](https://github.com/cusma/d-asa) ⭐ 9 | 🐛 5 | 🌐 Python | 📅 2026-03-19 - Debt Algorand Standard Application providing reference implementations and interfaces for tokenizing debt instruments (bonds, loans, commercial papers) that conform to ACTUS standards.
+* [d-asa](https://github.com/cusma/d-asa) ⭐ 9 | 🐛 6 | 🌐 Python | 📅 2026-03-19 - Debt Algorand Standard Application providing reference implementations and interfaces for tokenizing debt instruments (bonds, loans, commercial papers) that conform to ACTUS standards.
 
 ### CLI
 
@@ -313,7 +313,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 * [algojig](https://github.com/Hipo/algojig) ⭐ 18 | 🐛 6 | 🌐 Python | 📅 2025-05-15 - A tool for testing Algorand smart contracts.
 * [tealinspector](https://github.com/Hipo/tealinspector) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-11-17 - Quick and easy TEAL code debugging by Hipo labs.
 * [irulan](https://irulan.dev/) - Web app for deploying + testing smart contracts ([open source! + PRs welcome](https://github.com/thencc/irulan) ⭐ 4 | 🐛 21 | 🌐 Vue | 📅 2023-06-22).
-* [algokit-avm-debugger](https://github.com/algorandfoundation/algokit-avm-debugger) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-01-26 - Standalone AVM Debug Adapter Protocol implementation powering advanced contract debugging tooling.
+* [algokit-avm-debugger](https://github.com/algorandfoundation/algokit-avm-debugger) ⭐ 1 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-23 - Standalone AVM Debug Adapter Protocol implementation powering advanced contract debugging tooling.
 
 ### Deployment & Environment
 
@@ -427,7 +427,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 * [VibeKit](https://github.com/gabrielkuettel/vibekit) ⭐ 26 | 🐛 8 | 🌐 TypeScript | 📅 2026-03-20 - CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.
 * [algorand-remote-mcp](https://github.com/GoPlausible/algorand-remote-mcp) ⭐ 15 | 🐛 4 | 🌐 TypeScript | 📅 2026-03-13 - Algorand remote SSE MCP Server Cloudflare Worker.
 * [arcontextify](https://github.com/aorumbayev/arcontextify) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-06-18 - Algorand ARC-56 to MCP server converter.
-* [CorvidAgent](https://github.com/CorvidLabs/corvid-agent) ⭐ 4 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-23 - AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.
+* [CorvidAgent](https://github.com/CorvidLabs/corvid-agent) ⭐ 4 | 🐛 12 | 🌐 TypeScript | 📅 2026-03-24 - AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.
 * [AlgoChat](https://github.com/CorvidLabs/ts-algochat) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-21 - Encrypted on-chain messaging protocol for Algorand, enabling AI agent-to-agent communication via transaction notes.
 * [Algorand-GPT](https://chatgpt.com/g/g-izA6hnC93-algorand-gpt) - An Algorand Assistant Expert with access to all Algorand documentation and chain data built on OpenAI's ChatGPT platform by GoPlausible.
 * [DID-GPT](https://chatgpt.com/g/g-rOCQculZQ-did-gpt) - A W3C DID resolver assistant built on OpenAI's ChatGPT platform by GoPlausible.
@@ -484,11 +484,11 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 > Standards and specs defined in *finalized* ARCs.
 > The list of all the ARCs can be found [here](https://arc.algorand.foundation).
 
-* [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) ⭐ 138 | 🐛 27 | 🌐 Python | 📅 2026-02-17 - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
-* [ARC4](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0004.md) ⭐ 138 | 🐛 27 | 🌐 Python | 📅 2026-02-17 - Application Binary Interface.
-* [ARC32](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0032.md) ⭐ 138 | 🐛 27 | 🌐 Python | 📅 2026-02-17 - Application Specification.
-* [ARC56](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0056.md) ⭐ 138 | 🐛 27 | 🌐 Python | 📅 2026-02-17 - Extended and improved Application Specification.
-* [ARC69](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0069.md) ⭐ 138 | 🐛 27 | 🌐 Python | 📅 2026-02-17 - One of several Algorand Standard Asset Parameters Conventions.
+* [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) ⭐ 138 | 🐛 27 | 🌐 Python | 📅 2026-03-23 - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
+* [ARC4](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0004.md) ⭐ 138 | 🐛 27 | 🌐 Python | 📅 2026-03-23 - Application Binary Interface.
+* [ARC32](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0032.md) ⭐ 138 | 🐛 27 | 🌐 Python | 📅 2026-03-23 - Application Specification.
+* [ARC56](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0056.md) ⭐ 138 | 🐛 27 | 🌐 Python | 📅 2026-03-23 - Extended and improved Application Specification.
+* [ARC69](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0069.md) ⭐ 138 | 🐛 27 | 🌐 Python | 📅 2026-03-23 - One of several Algorand Standard Asset Parameters Conventions.
 
 ## Contributing
 
