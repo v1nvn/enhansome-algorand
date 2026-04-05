@@ -149,7 +149,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 > A list of open source projects, blogs, websites that are built on top of Algorand.
 
-* [staketaxcsv](https://github.com/hodgerpodger/staketaxcsv) ⭐ 269 | 🐛 13 | 🌐 Python | 📅 2026-02-13 - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other Blockchains.
+* [staketaxcsv](https://github.com/hodgerpodger/staketaxcsv) ⭐ 268 | 🐛 13 | 🌐 Python | 📅 2026-02-13 - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other Blockchains.
 * [Auction Demo](https://github.com/algorand/auction-demo) ⚠️ Archived - On-chain NFT auction using smart contracts.
 * [Pipeline-UI](https://github.com/headline-design/pipeline-ui) ⭐ 30 | 🐛 3 | 🌐 HTML | 📅 2022-06-22 - A React.js based component library for rapid deployment of Algorand Dapps.
 * [AlgoWorld-Contracts](https://github.com/algoworldNFT/algoworld-contracts) ⭐ 28 | 🐛 10 | 🌐 Python | 📅 2026-04-01 - Collection of all smart contracts used by AlgoWorld, written in PyTeal.
@@ -209,7 +209,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Go
 
-* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,425 | 🐛 274 | 🌐 Go | 📅 2026-04-04 - Algorand's official implementation in Go.
+* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,425 | 🐛 274 | 🌐 Go | 📅 2026-04-05 - Algorand's official implementation in Go.
 * [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 188 | 🐛 13 | 🌐 Go | 📅 2026-03-25 - The Algorand Golang SDK.
 * [conduit](https://github.com/algorand/conduit) ⭐ 43 | 🐛 17 | 🌐 Go | 📅 2026-02-18 - Algorand's data pipeline framework.
 
@@ -427,7 +427,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 * [VibeKit](https://github.com/gabrielkuettel/vibekit) ⭐ 27 | 🐛 8 | 🌐 TypeScript | 📅 2026-04-02 - CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.
 * [algorand-remote-mcp](https://github.com/GoPlausible/algorand-remote-mcp) ⭐ 15 | 🐛 4 | 🌐 TypeScript | 📅 2026-03-29 - Algorand remote SSE MCP Server Cloudflare Worker.
 * [arcontextify](https://github.com/aorumbayev/arcontextify) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-06-18 - Algorand ARC-56 to MCP server converter.
-* [CorvidAgent](https://github.com/CorvidLabs/corvid-agent) ⭐ 4 | 🐛 39 | 🌐 TypeScript | 📅 2026-04-04 - AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.
+* [CorvidAgent](https://github.com/CorvidLabs/corvid-agent) ⭐ 4 | 🐛 32 | 🌐 TypeScript | 📅 2026-04-05 - AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.
 * [AlgoChat](https://github.com/CorvidLabs/ts-algochat) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-25 - Encrypted on-chain messaging protocol for Algorand, enabling AI agent-to-agent communication via transaction notes.
 * [Algorand-GPT](https://chatgpt.com/g/g-izA6hnC93-algorand-gpt) - An Algorand Assistant Expert with access to all Algorand documentation and chain data built on OpenAI's ChatGPT platform by GoPlausible.
 * [DID-GPT](https://chatgpt.com/g/g-rOCQculZQ-did-gpt) - A W3C DID resolver assistant built on OpenAI's ChatGPT platform by GoPlausible.
