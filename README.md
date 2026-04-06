@@ -209,7 +209,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Go
 
-* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,425 | 🐛 274 | 🌐 Go | 📅 2026-04-05 - Algorand's official implementation in Go.
+* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,425 | 🐛 274 | 🌐 Go | 📅 2026-04-06 - Algorand's official implementation in Go.
 * [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 188 | 🐛 13 | 🌐 Go | 📅 2026-03-25 - The Algorand Golang SDK.
 * [conduit](https://github.com/algorand/conduit) ⭐ 43 | 🐛 17 | 🌐 Go | 📅 2026-02-18 - Algorand's data pipeline framework.
 
@@ -427,7 +427,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 * [VibeKit](https://github.com/gabrielkuettel/vibekit) ⭐ 27 | 🐛 8 | 🌐 TypeScript | 📅 2026-04-02 - CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.
 * [algorand-remote-mcp](https://github.com/GoPlausible/algorand-remote-mcp) ⭐ 15 | 🐛 4 | 🌐 TypeScript | 📅 2026-03-29 - Algorand remote SSE MCP Server Cloudflare Worker.
 * [arcontextify](https://github.com/aorumbayev/arcontextify) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-06-18 - Algorand ARC-56 to MCP server converter.
-* [CorvidAgent](https://github.com/CorvidLabs/corvid-agent) ⭐ 4 | 🐛 32 | 🌐 TypeScript | 📅 2026-04-05 - AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.
+* [CorvidAgent](https://github.com/CorvidLabs/corvid-agent) ⭐ 4 | 🐛 45 | 🌐 TypeScript | 📅 2026-04-06 - AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.
 * [AlgoChat](https://github.com/CorvidLabs/ts-algochat) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-25 - Encrypted on-chain messaging protocol for Algorand, enabling AI agent-to-agent communication via transaction notes.
 * [Algorand-GPT](https://chatgpt.com/g/g-izA6hnC93-algorand-gpt) - An Algorand Assistant Expert with access to all Algorand documentation and chain data built on OpenAI's ChatGPT platform by GoPlausible.
 * [DID-GPT](https://chatgpt.com/g/g-rOCQculZQ-did-gpt) - A W3C DID resolver assistant built on OpenAI's ChatGPT platform by GoPlausible.
@@ -474,7 +474,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 > Tools for on-chain voting powered by Algorand
 
-* [vote-coin-demo](https://github.com/scholtz/vote-coin-demo) ⭐ 597 | 🐛 0 | 🌐 Vue | 📅 2025-09-08 - Decentralized message standard for on-chain voting on Algorand developed by @scholtz.
+* [vote-coin-demo](https://github.com/scholtz/vote-coin-demo) ⭐ 596 | 🐛 0 | 🌐 Vue | 📅 2025-09-08 - Decentralized message standard for on-chain voting on Algorand developed by @scholtz.
 * [nft\_voting\_tool](https://github.com/algorandfoundation/nft_voting_tool) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-19 - Official voting tool by Algorand Foundation. The repository contains a voting tool that allows for creation and facilitation of immutable, tamperproof voting using the Algorand Blockchain.
 
 ## Standards
