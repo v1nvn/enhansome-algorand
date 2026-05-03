@@ -209,7 +209,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Go
 
-* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,426 | 🐛 262 | 🌐 Go | 📅 2026-05-02 - Algorand's official implementation in Go.
+* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,426 | 🐛 262 | 🌐 Go | 📅 2026-05-03 - Algorand's official implementation in Go.
 * [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 188 | 🐛 21 | 🌐 Go | 📅 2026-05-01 - The Algorand Golang SDK.
 * [conduit](https://github.com/algorand/conduit) ⭐ 43 | 🐛 16 | 🌐 Go | 📅 2026-02-18 - Algorand's data pipeline framework.
 
@@ -345,7 +345,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 ### Wallet Development
 
-* [use-wallet](https://github.com/txnlab/use-wallet) ⭐ 100 | 🐛 17 | 🌐 TypeScript | 📅 2026-04-30 - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
+* [use-wallet](https://github.com/txnlab/use-wallet) ⭐ 100 | 🐛 17 | 🌐 TypeScript | 📅 2026-05-03 - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
 * [use-wallet-js](https://github.com/TxnLab/use-wallet-js) ⚠️ Archived - TypeScript library for integrating Algorand wallets into decentralized applications.
 * [rsagg](https://github.com/dragmz/rsagg) ⭐ 7 | 🐛 4 | 🌐 C | 📅 2026-03-30 - A Rust library for GPU accelerated Algorand 'vanity' address generation.
 
