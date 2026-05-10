@@ -85,7 +85,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 * [algokit-cli](https://github.com/algorandfoundation/algokit-cli) ⭐ 191 | 🐛 31 | 🌐 Python | 📅 2026-03-31 - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.
 * [puya](https://github.com/algorandfoundation/puya) ⭐ 96 | 🐛 27 | 🌐 Python | 📅 2026-05-08 - An official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
-* [algokit-utils-ts](https://github.com/algorandfoundation/algokit-utils-ts) ⭐ 26 | 🐛 28 | 🌐 TypeScript | 📅 2026-05-05 - Algorand AlgoKit Utils for TypeScript.
+* [algokit-utils-ts](https://github.com/algorandfoundation/algokit-utils-ts) ⭐ 26 | 🐛 29 | 🌐 TypeScript | 📅 2026-05-09 - Algorand AlgoKit Utils for TypeScript.
 * [algokit-utils-py](https://github.com/algorandfoundation/algokit-utils-py) ⭐ 19 | 🐛 19 | 🌐 Python | 📅 2026-05-09 - Algorand AlgoKit Utils for Python.
 * [puya-ts](https://github.com/algorandfoundation/puya-ts) ⭐ 17 | 🐛 8 | 🌐 TypeScript | 📅 2026-05-08 - An official TypeScript to TEAL compiler frontend, leveraging the core puya compiler, allows you to write code to execute on the Algorand Virtual Machine (AVM) with TypeScript syntax.
 * [algokit-core](https://github.com/algorandfoundation/algokit-core) ⭐ 15 | 🐛 36 | 🌐 Rust | 📅 2026-05-07 - Multi-language core primitives (Rust + FFI bindings) powering higher-level AlgoKit tooling (crypto, encoding, protocol logic).
@@ -158,7 +158,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 * [WalletConnect Example DApp](https://github.com/algorand/walletconnect-example-dapp) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-29 - Algorand WalletConnect demo.
 * [arc3.xyz](https://github.com/barnjamin/arc3.xyz) ⭐ 22 | 🐛 3 | 🌐 TypeScript | 📅 2022-10-12 - Dapp that can be used to mint ARC3 compliant NFTs.
 * [QRCode Generator](https://github.com/emg110/algorand-qrcode) ⭐ 21 | 🐛 1 | 🌐 JavaScript | 📅 2024-09-09 - Uinversal QRCode generator module for Algorand ARC-26 URIs.
-* [wen-tools](https://github.com/LoafPickleWW/wen-tools) ⭐ 21 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-08 - Bulk operations tool for Algorand.
+* [wen-tools](https://github.com/LoafPickleWW/wen-tools) ⭐ 21 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-09 - Bulk operations tool for Algorand.
 * [txnDuck](https://github.com/No-Cash-7970/txnDuck) ⭐ 19 | 🐛 6 | 🌐 TypeScript | 📅 2026-04-07 - Transaction building tool for Algorand blockchain.
 * [algorealm](https://github.com/algorealm/algorealm) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2023-01-05 - Claim the Crown and the Sceptre of Algorand Realm! Written in Python+PyTEAL by [@cusma](https://github.com/cusma).
 * [algonoderewards](https://github.com/cryptomalgo/algonoderewards) ⭐ 18 | 🐛 12 | 🌐 TypeScript | 📅 2025-12-31 - Track and visualize Algorand node rewards using Nodely API.
@@ -209,7 +209,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 #### Go
 
-* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,428 | 🐛 269 | 🌐 Go | 📅 2026-05-09 - Algorand's official implementation in Go.
+* [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,427 | 🐛 269 | 🌐 Go | 📅 2026-05-10 - Algorand's official implementation in Go.
 * [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 188 | 🐛 25 | 🌐 Go | 📅 2026-05-08 - The Algorand Golang SDK.
 * [conduit](https://github.com/algorand/conduit) ⭐ 43 | 🐛 17 | 🌐 Go | 📅 2026-02-18 - Algorand's data pipeline framework.
 

@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-05T08:48:09Z",
+            "last_commit": "2026-05-09T16:05:11Z",
             "owner": "algorandfoundation",
             "repo": "algokit-utils-ts",
             "stars": 26
@@ -654,7 +654,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-08T19:05:10Z",
+            "last_commit": "2026-05-09T17:47:17Z",
             "owner": "LoafPickleWW",
             "repo": "wen-tools",
             "stars": 21
@@ -799,10 +799,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-09T01:00:27Z",
+            "last_commit": "2026-05-10T01:00:28Z",
             "owner": "algorand",
             "repo": "go-algorand",
-            "stars": 1428
+            "stars": 1427
           }
         },
         {
@@ -1607,7 +1607,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-09T00:52:17Z",
+            "last_commit": "2026-05-09T13:41:43Z",
             "owner": "TxnLab",
             "repo": "use-wallet",
             "stars": 100
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:22:05.066Z",
+    "last_updated": "2026-05-10T05:37:30.598Z",
     "original_repository": "aorumbayev/awesome-algorand",
     "source_repository": "v1nvn/enhansome-algorand",
     "source_repository_description": null,
