@@ -103,7 +103,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-08T15:44:46Z",
+            "last_commit": "2026-05-11T04:31:15Z",
             "owner": "algorandfoundation",
             "repo": "puya",
             "stars": 96
@@ -142,7 +142,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-07T05:22:30Z",
+            "last_commit": "2026-05-11T02:18:34Z",
             "owner": "algorandfoundation",
             "repo": "algorand-typescript-testing",
             "stars": 4
@@ -353,7 +353,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-27T19:41:02Z",
+            "last_commit": "2026-05-11T04:31:59Z",
             "owner": "AlgoWorldNFT",
             "repo": "algoworld-contracts",
             "stars": 28
@@ -392,7 +392,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-27T16:25:16Z",
+            "last_commit": "2026-05-11T04:33:51Z",
             "owner": "aorumbayev",
             "repo": "tinybar",
             "stars": 11
@@ -799,7 +799,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-10T01:00:28Z",
+            "last_commit": "2026-05-11T01:00:24Z",
             "owner": "algorand",
             "repo": "go-algorand",
             "stars": 1427
@@ -1607,7 +1607,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-09T13:41:43Z",
+            "last_commit": "2026-05-10T17:55:03Z",
             "owner": "TxnLab",
             "repo": "use-wallet",
             "stars": 100
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:37:30.598Z",
+    "last_updated": "2026-05-11T05:59:04.475Z",
     "original_repository": "aorumbayev/awesome-algorand",
     "source_repository": "v1nvn/enhansome-algorand",
     "source_repository_description": null,
