@@ -38,7 +38,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-09T02:58:04Z",
+            "last_commit": "2026-05-11T20:56:25Z",
             "owner": "algorandfoundation",
             "repo": "algokit-utils-py",
             "stars": 19
@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-09T16:05:11Z",
+            "last_commit": "2026-05-11T20:25:27Z",
             "owner": "algorandfoundation",
             "repo": "algokit-utils-ts",
             "stars": 26
@@ -103,10 +103,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T04:31:15Z",
+            "last_commit": "2026-05-11T14:05:44Z",
             "owner": "algorandfoundation",
             "repo": "puya",
-            "stars": 96
+            "stars": 97
           }
         },
         {
@@ -116,7 +116,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-08T21:49:32Z",
+            "last_commit": "2026-05-11T13:22:50Z",
             "owner": "algorandfoundation",
             "repo": "puya-ts",
             "stars": 17
@@ -142,7 +142,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-11T02:18:34Z",
+            "last_commit": "2026-05-11T15:20:38Z",
             "owner": "algorandfoundation",
             "repo": "algorand-typescript-testing",
             "stars": 4
@@ -431,7 +431,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-08T12:48:13Z",
+            "last_commit": "2026-05-11T20:40:40Z",
             "owner": "AlgoRealm",
             "repo": "algorealm-cli",
             "stars": 3
@@ -654,10 +654,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-09T17:47:17Z",
+            "last_commit": "2026-05-12T01:57:24Z",
             "owner": "LoafPickleWW",
             "repo": "wen-tools",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -799,7 +799,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-11T01:00:24Z",
+            "last_commit": "2026-05-12T01:00:24Z",
             "owner": "algorand",
             "repo": "go-algorand",
             "stars": 1427
@@ -812,7 +812,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-08T23:40:25Z",
+            "last_commit": "2026-05-11T23:40:39Z",
             "owner": "algorand",
             "repo": "go-algorand-sdk",
             "stars": 188
@@ -921,7 +921,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-08T23:40:41Z",
+            "last_commit": "2026-05-11T23:41:08Z",
             "owner": "algorand",
             "repo": "js-algorand-sdk",
             "stars": 298
@@ -976,7 +976,7 @@
             "last_commit": "2026-04-21T07:47:24Z",
             "owner": "perawallet",
             "repo": "connect",
-            "stars": 71
+            "stars": 70
           }
         },
         {
@@ -999,7 +999,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-08T04:49:26Z",
+            "last_commit": "2026-05-11T21:05:00Z",
             "owner": "subtopia-algo",
             "repo": "subtopia-js-sdk",
             "stars": 10
@@ -1350,7 +1350,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-07T10:39:23Z",
+            "last_commit": "2026-05-11T16:20:29Z",
             "owner": "cusma",
             "repo": "d-asa",
             "stars": 10
@@ -1461,7 +1461,7 @@
             "last_commit": "2025-05-15T13:36:51Z",
             "owner": "Hipo",
             "repo": "algojig",
-            "stars": 18
+            "stars": 17
           }
         },
         {
@@ -1821,7 +1821,7 @@
             "last_commit": "2026-04-19T12:59:04Z",
             "owner": "GoPlausible",
             "repo": "algorand-mcp",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -2052,7 +2052,7 @@
             "last_commit": "2026-05-07T22:29:48Z",
             "owner": "algorandfoundation",
             "repo": "ARCs",
-            "stars": 139
+            "stars": 138
           }
         },
         {
@@ -2065,7 +2065,7 @@
             "last_commit": "2026-05-07T22:29:48Z",
             "owner": "algorandfoundation",
             "repo": "ARCs",
-            "stars": 139
+            "stars": 138
           }
         },
         {
@@ -2078,7 +2078,7 @@
             "last_commit": "2026-05-07T22:29:48Z",
             "owner": "algorandfoundation",
             "repo": "ARCs",
-            "stars": 139
+            "stars": 138
           }
         },
         {
@@ -2091,7 +2091,7 @@
             "last_commit": "2026-05-07T22:29:48Z",
             "owner": "algorandfoundation",
             "repo": "ARCs",
-            "stars": 139
+            "stars": 138
           }
         },
         {
@@ -2104,7 +2104,7 @@
             "last_commit": "2026-05-07T22:29:48Z",
             "owner": "algorandfoundation",
             "repo": "ARCs",
-            "stars": 139
+            "stars": 138
           }
         }
       ],
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T05:59:04.475Z",
+    "last_updated": "2026-05-12T05:38:40.848Z",
     "original_repository": "aorumbayev/awesome-algorand",
     "source_repository": "v1nvn/enhansome-algorand",
     "source_repository_description": null,
