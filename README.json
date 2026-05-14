@@ -38,7 +38,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T20:56:25Z",
+            "last_commit": "2026-05-13T10:34:19Z",
             "owner": "algorandfoundation",
             "repo": "algokit-utils-py",
             "stars": 19
@@ -51,7 +51,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-07T17:29:04Z",
+            "last_commit": "2026-05-13T16:54:12Z",
             "owner": "algorandecosystem",
             "repo": "algokit-core",
             "stars": 15
@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T20:33:39Z",
+            "last_commit": "2026-05-13T17:41:58Z",
             "owner": "algorandfoundation",
             "repo": "algokit-utils-ts",
             "stars": 26
@@ -103,7 +103,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-13T03:56:33Z",
+            "last_commit": "2026-05-14T05:41:08Z",
             "owner": "algorandfoundation",
             "repo": "puya",
             "stars": 97
@@ -116,7 +116,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-13T03:55:37Z",
+            "last_commit": "2026-05-13T19:44:46Z",
             "owner": "algorandfoundation",
             "repo": "puya-ts",
             "stars": 17
@@ -129,7 +129,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-13T03:57:13Z",
+            "last_commit": "2026-05-13T16:53:20Z",
             "owner": "algorandfoundation",
             "repo": "algorand-python-testing",
             "stars": 10
@@ -142,7 +142,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-13T03:53:52Z",
+            "last_commit": "2026-05-13T08:56:13Z",
             "owner": "algorandfoundation",
             "repo": "algorand-typescript-testing",
             "stars": 4
@@ -654,7 +654,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-13T02:17:09Z",
+            "last_commit": "2026-05-13T22:22:54Z",
             "owner": "LoafPickleWW",
             "repo": "wen-tools",
             "stars": 22
@@ -799,10 +799,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-13T01:00:22Z",
+            "last_commit": "2026-05-14T01:00:29Z",
             "owner": "algorand",
             "repo": "go-algorand",
-            "stars": 1427
+            "stars": 1428
           }
         },
         {
@@ -1607,7 +1607,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T12:03:36Z",
+            "last_commit": "2026-05-14T00:26:33Z",
             "owner": "TxnLab",
             "repo": "use-wallet",
             "stars": 101
@@ -1818,7 +1818,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T18:38:40Z",
+            "last_commit": "2026-05-13T09:14:09Z",
             "owner": "GoPlausible",
             "repo": "algorand-mcp",
             "stars": 45
@@ -1896,7 +1896,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-04T14:57:38Z",
+            "last_commit": "2026-05-13T15:37:03Z",
             "owner": "algorand-devrel",
             "repo": "algorand-agent-skills",
             "stars": 31
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:49:25.381Z",
+    "last_updated": "2026-05-14T05:48:03.794Z",
     "original_repository": "aorumbayev/awesome-algorand",
     "source_repository": "v1nvn/enhansome-algorand",
     "source_repository_description": null,
