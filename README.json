@@ -18,7 +18,7 @@
             "last_commit": "2026-03-31T08:14:02Z",
             "owner": "algorandfoundation",
             "repo": "algokit-cli",
-            "stars": 191
+            "stars": 192
           }
         },
         {
@@ -654,7 +654,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-16T02:13:43Z",
+            "last_commit": "2026-05-16T19:51:54Z",
             "owner": "LoafPickleWW",
             "repo": "wen-tools",
             "stars": 22
@@ -799,7 +799,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-16T01:00:29Z",
+            "last_commit": "2026-05-17T01:00:23Z",
             "owner": "algorand",
             "repo": "go-algorand",
             "stars": 1428
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:27:34.585Z",
+    "last_updated": "2026-05-17T05:49:08.205Z",
     "original_repository": "aorumbayev/awesome-algorand",
     "source_repository": "v1nvn/enhansome-algorand",
     "source_repository_description": null,
