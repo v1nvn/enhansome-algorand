@@ -103,7 +103,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-15T16:22:25Z",
+            "last_commit": "2026-05-18T05:40:53Z",
             "owner": "algorandfoundation",
             "repo": "puya",
             "stars": 97
@@ -116,7 +116,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T10:22:48Z",
+            "last_commit": "2026-05-18T01:42:47Z",
             "owner": "algorandfoundation",
             "repo": "puya-ts",
             "stars": 17
@@ -654,7 +654,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-16T19:51:54Z",
+            "last_commit": "2026-05-17T15:19:28Z",
             "owner": "LoafPickleWW",
             "repo": "wen-tools",
             "stars": 22
@@ -799,7 +799,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-17T01:00:23Z",
+            "last_commit": "2026-05-18T01:00:21Z",
             "owner": "algorand",
             "repo": "go-algorand",
             "stars": 1428
@@ -1607,7 +1607,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-14T21:54:52Z",
+            "last_commit": "2026-05-18T04:51:40Z",
             "owner": "TxnLab",
             "repo": "use-wallet",
             "stars": 101
@@ -2049,7 +2049,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-12T14:11:40Z",
+            "last_commit": "2026-05-17T09:54:18Z",
             "owner": "algorandfoundation",
             "repo": "ARCs",
             "stars": 138
@@ -2062,7 +2062,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-12T14:11:40Z",
+            "last_commit": "2026-05-17T09:54:18Z",
             "owner": "algorandfoundation",
             "repo": "ARCs",
             "stars": 138
@@ -2075,7 +2075,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-12T14:11:40Z",
+            "last_commit": "2026-05-17T09:54:18Z",
             "owner": "algorandfoundation",
             "repo": "ARCs",
             "stars": 138
@@ -2088,7 +2088,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-12T14:11:40Z",
+            "last_commit": "2026-05-17T09:54:18Z",
             "owner": "algorandfoundation",
             "repo": "ARCs",
             "stars": 138
@@ -2101,7 +2101,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-12T14:11:40Z",
+            "last_commit": "2026-05-17T09:54:18Z",
             "owner": "algorandfoundation",
             "repo": "ARCs",
             "stars": 138
@@ -2117,7 +2117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-17T05:49:08.205Z",
+    "last_updated": "2026-05-18T06:14:28.457Z",
     "original_repository": "aorumbayev/awesome-algorand",
     "source_repository": "v1nvn/enhansome-algorand",
     "source_repository_description": null,
